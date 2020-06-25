@@ -4,17 +4,5 @@ public class testjava {
         System.out.println("bhds");
 
 
-        System.out.println("1");
-
-
-        System.out.println("3");
-
-
-        System.out.println("5");
-
-
-
-
-        System.out.println("8");
     }
 }
